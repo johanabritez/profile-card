@@ -1,5 +1,4 @@
-import profiele.css
-function Avatar(){
-    return <img src="profile.jpeg" alt="Johana Britez" className="avatar"/>
+function Avatar() {
+  return <img src="profile.jpeg" alt="Johana Britez" className="avatar" />
 }
-export default Avatar;
+export default Avatar
